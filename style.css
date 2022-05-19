@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body{
+	font-family: 'Montserrat', sans-serif;
+	background-image: url(https://images.unsplash.com/photo-1506318137071-a8e063b4bec0?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1193);
+	color: white;
+}
+
+main{
+	background-color: #3c096c;
+	width: 50%;
+	height: 30%;
+}
+h1{
+	font-size: 30px;
+}
+span{
+	font-size: 15px;
+	color: #c77dff;
+}
